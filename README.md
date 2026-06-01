@@ -6,9 +6,11 @@ it even gives you a UV warning to remind you to wear sunscreen and take care of 
 for the whole day without having to think about it or spend time planning what to wear. 
 
 ## Installation
-
 ```bash
-uv add "git+https://github.com/mpkcb21/weatherware.git"
+pip install uv
+```
+```bash
+uv tool install "git+https://github.com/mpkcb21/weatherware.git"
 ```
 
 ## Usage
