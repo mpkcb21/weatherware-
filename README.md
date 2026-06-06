@@ -10,6 +10,10 @@ for the whole day without having to think about it or spend time planning what t
 pip install uv
 ```
 ```bash
+uv add "git+https://github.com/mpkcb21/weatherware.git"
+```
+or 
+```
 uv tool install "git+https://github.com/mpkcb21/weatherware.git"
 ```
 
